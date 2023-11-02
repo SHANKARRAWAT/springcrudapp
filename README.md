@@ -1,2 +1,2 @@
 # springcrudapp
-it has all crud operation using spring mvc and hibernate,jsp, it uses mysql database
+it has all crud operations using spring mvc and hibernate,jsp.
